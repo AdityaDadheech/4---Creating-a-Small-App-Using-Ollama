@@ -27,8 +27,9 @@ This is a simple demo application that uses **LangChain**, **Ollama**, and **Str
 ### 2. 🛠️ Installation
 Clone the repo and install the required dependencies:
 
-git clone https://github.com/AdityaDadheech/4---Creating-a-Small-App-Using-Ollama.git
-cd langchain-ollama-demo
+### git clone https://github.com/AdityaDadheech/4---Creating-a-Small-App-Using-Ollama.git
+
+### cd 4---Creating-a-Small-App-Using-Ollama
 
 # Create a virtual environment (optional but recommended)
 python -m venv venv
